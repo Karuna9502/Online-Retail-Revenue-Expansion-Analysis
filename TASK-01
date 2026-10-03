@@ -1,0 +1,44 @@
+Here is your task
+To prepare for your meeting, you need to draft questions that you think will be important and relevant to the CEO and CMO. 
+This preparation will be your guide as you develop your presentation.
+
+For this task, you are only required to draft the questions. Make sure to think both quantitatively and qualitatively.
+
+You’ve been provided a dataset in the resources below to use as the basis for your exploration. Review this data, taking note
+of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
+
+Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you 
+differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
+
+Submit your eight questions in total (4 for the CEO and 4 for the CMO) in the text submission box below. 
+
+
+** MY RESPOSE 
+Questions for the CEO
+
+Quantitative: How has total revenue (Quantity x UnitPrice) grown month-on-month from December 2010 to December 2011, especially the 
+sharp rise from September to November 2011,and was that growth driven by more invoices, larger baskets, or higher average order value?
+
+Quantitative: How concentrated is our revenue - by country (with the UK alone at about 85%), by our top products, and by our top customers 
+and what risk does that concentration create if a key market, product, or wholesale customer drops?
+
+Quantitative: How much revenue are we losing to cancellations and returns (invoices starting with 'C', about £897,000 in this period),
+which products and countries account for most of that loss, and is it a product quality, stock, or operations problem?
+Qualitative: Should we expand internationally or go deeper in the UK first, and what operational and market risks 
+delivery/postage costs, returns handling, local tastes and competition - do we need to investigate before investing in promising non-UK markets
+such as the Netherlands, Ireland (EIRE), Germany and France?
+
+Questions for the CMO
+
+Quantitative: Who are our most valuable customers using Recency, Frequency and Monetary (RFM) value from CustomerID, InvoiceDate and revenue, 
+how much revenue comes from repeat customers versus the roughly one-third who buy only once, and which segment should we focus retention efforts on?
+
+Quantitative: Which products sell best in each key country, and how do basket size and average order value differ by country, so we can localise the product range, 
+offers and messaging instead of using one approach for all markets?
+
+Quantitative: When do customers buy most - by month, day of the week and time of day, such as the September to November peak 
+and how should we time campaigns, launches and promotions around those patterns?
+
+Qualitative: Why do customers buy only once, cancel an order, or choose our gift and homeware products in the first place, 
+and what information we do not currently collect - such as age, gender, how they found us, satisfaction and reason for purchase or return 
+do we need to gather through surveys and customer feedback to improve targeting and retention?
